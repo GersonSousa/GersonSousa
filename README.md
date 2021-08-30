@@ -22,3 +22,4 @@
 
 ##
 
+![Snake animation](https://github.com/gersonsousa/gersonsousa/blob/output/github-contribution-grid-snake.svg)
