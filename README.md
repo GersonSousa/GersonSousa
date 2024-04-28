@@ -41,5 +41,6 @@ Olá! Eu sou o Gerson Sousa
 
 <br>
 <hr>
-![Snake animation](https://github.com/GersonSousa/GersonSousa/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/GersonSousa/GersonSousa/blob/output/github-contribution-grid-snake.svg)]
+
 
