@@ -39,4 +39,5 @@ Olá! Eu sou o Gerson Sousa
 <br>
 <hr>
 
-
+https://github.com/GersonSousa/GersonSousa/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/GersonSousa/GersonSousa/blob/output/github-contribution-grid-snake.gif)
