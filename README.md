@@ -34,7 +34,7 @@ Olá! Eu sou o Gerson Sousa
 
 ### <b>Meus Stats no Github</b>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GersonSousa&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="GersonSousa's GitHub stats" /><img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GersonSousa&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img height="170em" gap="14px" src="https://github-readme-stats.vercel.app/api?username=GersonSousa&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="GersonSousa's GitHub stats" /><img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GersonSousa&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 <br>
 <hr>
